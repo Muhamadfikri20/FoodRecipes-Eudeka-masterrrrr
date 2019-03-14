@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Resep Makanan</string>
+    <string name="movie_date">Movie Date</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="movie_description">Movie Description</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+</resources>
